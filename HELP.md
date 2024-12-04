@@ -38,5 +38,5 @@ The application uses **AWS DynamoDB** for data storage and supports RESTful APIs
 ### **Setup**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JasminMA/supportapp.git
    cd support-app-backend
